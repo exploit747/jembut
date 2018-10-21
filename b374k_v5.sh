@@ -12,6 +12,8 @@ red='\033[31;1m'
 white='\033[37;1m'                                           
 yellow='\033[33;1m'
 sleep 1
+echo $green
+cat asw.txt
 toilet -f big -F gay "T00Ls" | lolcat
 toilet -f big -F gay "B 3 7 4 K" 
 echo ""      
