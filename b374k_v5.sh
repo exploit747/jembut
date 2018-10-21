@@ -4,6 +4,7 @@
 #DiGantiAuthotGakBakalJadiinLuMaster
 #MikirMakeOtakGbl0k
 clear
+cd module
 blue='\033[34;1m'
 green='\033[32;1m'                                        
 purple='\033[35;1m'
@@ -14,7 +15,7 @@ yellow='\033[33;1m'
 sleep 1
 echo $green
 cat asw.txt
-toilet -f big -F gay "T00Ls" | lolcat
+echo ""....
 toilet -f big -F gay "B 3 7 4 K" 
 echo ""      
 echo "\033[32;1mAuthor : Mr.ALI" 
