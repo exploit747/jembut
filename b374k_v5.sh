@@ -17,7 +17,7 @@ toilet -f big -F gay "B 3 7 4 K"
 echo ""      
 echo "\033[32;1mAuthor : Mr.ALI" 
 echo "\033[35;1mTeam : B 3 7 4 K CYBER TEAM"
-echo "\033[33;1mKontak Me :  081999753271"
+echo "\033[33;1mKontak Me (WA):  081999753271"
 echo "\033[37;1mB 3 7 4 K CYBER TEAM" "\033[32;1m&" "\033[36;1mIndonesia Security Lite"
 echo "\033[34;1m[============================[>"
 sleep 1
